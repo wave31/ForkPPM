@@ -1,3 +1,2 @@
 background: 'stylesheet/Background.png'
-logo: 'stylesheet/DondersLogoSmall.png'
 theme-override : 'stylesheet/css/PITCHME.css'
