@@ -1,3 +1,4 @@
+---?image=stylesheet/FirstSlide.png
 # Fork Request 
 ## PPM, December 32, 2017
 
@@ -25,6 +26,10 @@ https://doi.org/10.1136/bmj.331.7531.1498
 - Lame joke about GitHub forks.
 - Comparative analysis with the spork
 
++++
+
+![Video](https://www.youtube.com/embed/MaGSG7Lselk?start=6)
+
 ---
 
 # Procedure & Subjects
@@ -37,7 +42,6 @@ Equipment: 200 * ± €1 (plus some spare ones, perhaps) + plus the cost of GPS 
 
 We will use the quills of a Porcupine [Porcupine](https://timvanmourik.github.io/Porcupine) as chopsticks. We will ask ethical approval for animal research and request Da Betty e Mora to cook more Chinese.
 
-
 ---
 
 # Data Analysis
@@ -48,3 +52,8 @@ By means of an ANOVA, we will determine the F value, better known as fork value,
 ---
 
 # Scientific Contribution
+
+
+---?image=stylesheet/LastSlideB2.png
+# Thank you!  
+

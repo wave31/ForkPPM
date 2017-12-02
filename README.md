@@ -1,4 +1,4 @@
-Find the actual presentation at https://gitpitch.com/timvanmourik/ForkPPM/master
+Find the actual presentation at https://gitpitch.com/timvanmourik/ForkPPM
 
 # ForkPPM
 This presentation is a collaborative project that will be presented as a 15 minute pitch at the DCCN Project Proposal Meeting, a meeting at the [Donders Institute for Brain, Cognition and Behaviour](http://www.ru.nl/donders).
